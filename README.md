@@ -1,6 +1,6 @@
 # [Crpyoblock  ]()
 # [Link to Etherum Dapp repo ](https://github.com/Falk0r/Ethereum-first-Dapp)
-# [Achitectural diagram ](https://github.com/Falk0r/Ethereum-first-Dapp)
+# [Achitectural diagram ](https://github.com/Jerryblessed/cryptoblock/blob/main/crptoblock.png)
 
 
 Simple blog app built with Flask.
